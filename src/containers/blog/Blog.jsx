@@ -9,7 +9,7 @@ import "./blog.scss";
 
 const Blog = () => {
   return (
-    <div className="blog section__padding" id="case-studies">
+    <div className="blog section__padding" id="library">
       <div className="blog__heading">
         <h1 className="gradient__text">
           A lot is happening, <br /> We are blogging about it.
